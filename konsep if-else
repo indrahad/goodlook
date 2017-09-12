@@ -1,0 +1,34 @@
+if (kondisi)
+	pernyataan;
+else
+	pernyataan2;
+
+if(kondisi)
+	pernyatan1;
+else {}
+	pernyatan21;
+	pernyatan22;
+	............
+	}
+
+if(kondisi) {
+	pernyatan11;
+	pernyatan22;
+	...........
+}
+else {
+	pernyataan21;
+	pernyataan22;
+	............
+}
+
+if(kondisi) {
+	pernyataan1;
+}
+else {
+	if(kondisi2)
+	pernyataan2;
+	else
+	pernyataan3;
+}
+
